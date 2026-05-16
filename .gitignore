@@ -1,0 +1,12 @@
+# Środowisko wirtualne
+venv/
+env/
+
+# Pobrane dane i wagi modelu
+data/
+*.pth
+
+# Pliki tymczasowe Pythona
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
